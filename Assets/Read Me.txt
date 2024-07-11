@@ -1,0 +1,7 @@
+1. there is only 1 scene in this project
+2. grid movement with pathfinding algorithm implemented
+3. after pressing play button click one time in game window to enter in game window now hover over any grid 
+	that's info will be shown in bottom Ui image
+4. click on any block to move in that block algorithm will find shortest path and will move following
+	that path
+5. that's the project so far, Project is versatile so it can further adapt further changes 
